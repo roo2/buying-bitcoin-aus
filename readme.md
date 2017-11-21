@@ -18,7 +18,7 @@ Required:
 * **At least 30 minutes**
 * **An Id Document (Passport, Drivers Licence)**
 * **A utility bill with your name and address**
-### 0. Overview
+## 0. Overview
 To buy bitcoin you can either
 * buy from someone you know,
 * buy from someone on [https://localbitcoins.com/](https://localbitcoins.com/),
@@ -39,10 +39,9 @@ Negatives:
     * [Turnbul's goons](https://www.fairfaxstatic.com.au/content/dam/images/g/x/c/n/3/r/image.related.articleLeadwide.620x349.gxcn46.png/1501038190091.jpg) will find out that you have bitcoin
     * There's a small possibility that your identity will be stolen
 
-### 1. Sign up
-go to [https://www.independentreserve.com?invite=KUXBHN](https://www.independentreserve.com?invite=KUXBHN) and register an account.
+#### Go to [https://www.independentreserve.com?invite=KUXBHN](https://www.independentreserve.com?invite=KUXBHN) and register an account.
 ![image](img/1.png?raw=true)
-#### Use referal code *KUXBHN* to give my friend a small commission.
+#### Use referal code *KUXBHN* to give a friend of mine a small commission.
 
 ![image](img/2-signup.png?raw=true)
 
