@@ -73,7 +73,7 @@ Negatives:
 #### A bill with your name and address
 ![image](img/internode.png?raw=true)
 #### A photo of you holding a Government ID (Licence or passport)
-![image](img/passport.png?raw=true)
+![image](img/passport.jpg?raw=true)
 ![image](img/20.png?raw=true)
 #### It will take a day or two for them to check your ID and then you'll be able to buy bitcoin.
 ![image](img/21.png?raw=true)
