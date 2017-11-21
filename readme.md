@@ -8,6 +8,7 @@ I made this tutorial to help you get some Bitcoin and Ethereum for yourself.
 
 Index:
 --
+{:toc}
 * Part 1. Register on an exchange
 * Part 2. Buying Bitcoin and Ethereum (Coming soon)
 * Part 3. Hosting your own wallets (coming soon)
