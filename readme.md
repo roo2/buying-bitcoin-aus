@@ -38,7 +38,7 @@ Negatives:
 ### 1. Sign up
 go to [https://www.independentreserve.com?invite=KUXBHN](https://www.independentreserve.com?invite=KUXBHN) and register an account.
 ![image](img/1.png?raw=true)
-Use referal code *KUXBHN* to give my friend a small commission.
+#### Use referal code *KUXBHN* to give my friend a small commission.
 
 ![image](img/2-signup.png?raw=true)
 
