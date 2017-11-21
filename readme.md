@@ -6,14 +6,18 @@ But many of you are time poor and a bit worried about doing something wrong and 
 I made this tutorial to help you get some Bitcoin and Ethereum for yourself. 
 
 
-Index:
+Outline
 --
 * Part 1. Register on an exchange
 * Part 2. Buying Bitcoin and Ethereum (Coming soon)
 * Part 3. Hosting your own wallets (coming soon)
 
-Registering on an exchange
+Part 1. Registering on an exchange
 --
+Required:
+* **At least 30 minutes**
+* **An Id Document (Passport, Drivers Licence)**
+* **A utility bill with your name and address**
 ### 0. Overview
 To buy bitcoin you can either
 * buy from someone you know,
@@ -21,12 +25,12 @@ To buy bitcoin you can either
 * find a bitcoin ATM,
 * **use an exchange.**
 
-This covers buying bitcoin from the exchange called, "the independent reserve". There are quite a few other exchanges but this one has a good rate, is big and sells ethereum.
+This covers buying bitcoin from one exchange called, "the independent reserve". There are quite a few other exchanges but this one has a good rate, is big and also sells ethereum.
 
 Positives:
 * Good rate for bitcoin.
-* Dealing with a large established business.
-* Can buy Ethereum in the same place
+* A large established business.
+* You can buy Ethereum in the same place
 * You don't have to download bitcoin software right away
 
 Negatives:
@@ -44,7 +48,7 @@ go to [https://www.independentreserve.com?invite=KUXBHN](https://www.independent
 
 #### If you're not taking jobs from random people on thegumtree, ignore this.
 ![image](img/3.png?raw=true)
-#### AccountType = personal, account purpose = investment, Click provide your identity details
+#### set AccountType and Account Purpose, Click on "provide your identity details" and enter them
 ![image](img/4.png?raw=true)
 ![image](img/5.png?raw=true)
 #### Enter you email address
@@ -73,3 +77,6 @@ go to [https://www.independentreserve.com?invite=KUXBHN](https://www.independent
 ![image](img/20.png?raw=true)
 #### It will take a day or two for them to check your ID and then you'll be able to buy bitcoin.
 ![image](img/21.png?raw=true)
+
+Coming Soon: Actually buying the bitcoin.
+--
