@@ -1,3 +1,4 @@
+<link type="text/css" rel="stylesheet" href="main.css" />
 Buying bitcoin in Australia
 --
 Hello friends. I'm getting a lot of people asking me about buying bitcoin lately. 
