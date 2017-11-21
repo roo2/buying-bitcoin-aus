@@ -18,7 +18,8 @@ Required:
 * **At least 30 minutes**
 * **An Id Document (Passport, Drivers Licence)**
 * **A utility bill with your name and address**
-## 0. Overview
+
+###W 0. Overview
 To buy bitcoin you can either
 * buy from someone you know,
 * buy from someone on [https://localbitcoins.com/](https://localbitcoins.com/),
