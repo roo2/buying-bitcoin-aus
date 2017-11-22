@@ -1,9 +1,9 @@
 <link type="text/css" rel="stylesheet" href="main.css" />
 Buying bitcoin in Australia
 --
-Hello friends. I'm getting a lot of people asking me about buying bitcoin lately. 
-But many of you are time poor and a bit worried about doing something wrong and losing money. 
-I made this tutorial to help you get some Bitcoin and Ethereum for yourself. 
+Hello friends. I'm getting a lot of people asking me about buying bitcoin lately.
+But many of you are time poor and a bit worried about doing something wrong and losing money.
+I made this tutorial to help you get some Bitcoin and Ethereum for yourself.
 
 
 Outline
@@ -19,7 +19,7 @@ Required:
 * **An Id Document (Passport, Drivers Licence)**
 * **A utility bill with your name and address**
 
-###W 0. Overview
+### 0. Overview
 To buy bitcoin you can either
 * buy from someone you know,
 * buy from someone on [https://localbitcoins.com/](https://localbitcoins.com/),
@@ -74,6 +74,7 @@ Negatives:
 ![image](img/internode.png?raw=true)
 #### A photo of you holding a Government ID (Licence or passport)
 ![image](img/passport.jpg?raw=true)
+#### Done! (for now)
 ![image](img/20.png?raw=true)
 #### It will take a day or two for them to check your ID and then you'll be able to buy bitcoin.
 ![image](img/21.png?raw=true)
