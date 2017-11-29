@@ -145,8 +145,7 @@ Land prices won't drop to zero, people will still need land.
 Businesses will still receive investment, high return for high risk is attractive to many.
 
 ### Other thoughts:
-* Land ownership is nothing to frown upon. But because of inflation, people buy land who don't
-* really want it just to hold on to their savings. This drives up the price for people who really need it.
+* Land ownership is nothing to frown upon. But because of inflation, people buy land who just want to hold on to their savings. This drives up the price for people who really need it.
 * Even if you already own land, unless it's your primary source of inclome, you're still losing out to inflation.
 * Inflation is theft. Banks create money every time someone borrows from them and this is unfair!
 * Currently, businesses are expected to grow exponentially just to beat inflation, this is clearly unsustainable and drives environmental damage and harmful consumerism. Not all productive business is helping people.
