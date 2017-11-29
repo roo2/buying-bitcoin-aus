@@ -109,7 +109,7 @@ But there is now another option; it is similar to buying gold/silver but with so
 <div class="grid">
 <div class="col-4-12">
 <div class="content">
-![image](img/why-cryptocurrency-is-good-for-us/cryptos.png?raw=true)
+![image](img/why-cryptocurrency-is-good-for-us/crypto.png?raw=true)
 </div>
 </div>
 <div class="col-8-12">
