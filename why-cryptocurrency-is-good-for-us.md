@@ -53,6 +53,7 @@ Value is driven by what it can be traded for
 <div class="content">
 #### Buy rare tradables 
 *e.g. Gold, Silver, Beanie babies*
+
 Value is driven by what it can be traded for and speculation
 * Maintains its value over time due to scarcity
 * No passive income
@@ -71,6 +72,7 @@ Value is driven by what it can be traded for and speculation
 <div class="content">
 #### Invest in Land or control of another scarce, productive resource 
 *e.g. Land, Taxi Medallion, Fishing Quota*
+
 Value is driven by scarcity and usefulness of the property
 * Maintains its value over time
 * Generally a safe investment
@@ -89,6 +91,7 @@ Value is driven by scarcity and usefulness of the property
 <div class="content">
 #### Invest in shares or a business
 *e.g. Shares on the ASX, Starting a business, Building a new house*
+
 Value is driven by useful outputs of the business
 * Higher rate of return
 * Riskier investment
@@ -104,6 +107,7 @@ So you buy land? Well thanks dickhead, by investing in land, you've played a par
 
 But it's not your fault, we would all do the same, it's the only safe option when inflation is high and business is uncertain. 
 
+### The crypto currency option
 But there is now another option; it is similar to buying gold/silver but with some extra benefits.
 
 <div class="grid">
@@ -115,7 +119,8 @@ But there is now another option; it is similar to buying gold/silver but with so
 <div class="col-8-12">
 <div class="content">
 #### Buy a crypto currency 
-* e.g. Bitcoin, Ethereum, Monero
+*e.g. Bitcoin, Ethereum, Monero*
+
 Value is driven by what it can be traded for and speculation.
 * No intrinsic value
 * Maintains its value over time due to scarcity
