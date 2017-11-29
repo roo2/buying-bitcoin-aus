@@ -16,7 +16,10 @@ Current problems:
 I believe that cryptocurrency will help make these problems less severe, let's talk through an example of why:
 
 Say you work very hard for many years and are able to save away $500,000. What are you going to do with that money?
-
+:div
+    blah
+:span
+    blah
 You have four basic options:
 <div class="grid">
     <div class="col-6-12">
