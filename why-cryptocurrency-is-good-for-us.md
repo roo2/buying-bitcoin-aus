@@ -1,7 +1,7 @@
 
 <link type="text/css" rel="stylesheet" href="main.css" />
 <link type="text/css" rel="stylesheet" href="style/simplegrid.css" />
-## Why crypto currency will make us all better off
+## Why crypto currency will make housing more affordable
 
 I'm Roo, I'm a software developer who has been heavily involved in crypto currency and blockchain for
 some years now. I'm not an economist but I am very curious about the economics of decentralised
