@@ -1,7 +1,7 @@
 
 <link type="text/css" rel="stylesheet" href="main.css" />
 <link type="text/css" rel="stylesheet" href="style/simplegrid.css" />
-## Why Crypto Currency will make us all better off
+## Why crypto currency will make us all better off
 
 I'm Roo, I'm a software developer who has been  heavily involved in crypto currency and blockchain for
 some years now. I'm not an economist but I am very curious about the economics of decentralised
@@ -114,7 +114,7 @@ But there is now another option; it is similar to buying gold/silver but with so
 </div>
 <div class="col-8-12">
 <div class="content">
-#### Buy a Crypto Currency 
+#### Buy a crypto currency 
 * e.g. Bitcoin, Ethereum, Monero
 Value is driven by what it can be traded for and speculation.
 * No intrinsic value
@@ -125,10 +125,10 @@ Value is driven by what it can be traded for and speculation.
 </div>
 </div>
 
-### A Crypto Currency means your savings aren't hurting anyone
-Now that you have a secure and stable place to store value, you don't have to pump your money into inflating property prices! Before, your money was pricing people out of homes. Now, it's pricing people out of cryptocurrency. Which is fine! cryptocurrency has no inherent value anyway. Your money is not helping or hurting society, it's just sitting out this round. You can bring it back in to invest in productive businesses when you want to make some return on investment. Or use it to see the world, for a project that helps people, or anything else that you want. It's not going anywhere. 
+### A crypto currency means your savings aren't hurting anyone
+Now that you have a secure and stable place to store value, you don't have to pump your money into inflating property prices! Before, your money was pricing people out of homes. Now, it's pricing people out of crypto currency. Which is fine! crypto currency has no inherent value anyway. Your money is not helping or hurting society, it's just sitting out this round. You can bring it back in to invest in productive businesses when you want to make some return on investment. Or use it to see the world, for a project that helps people, or anything else that you want. It's not going anywhere. 
 
-### Productive business and Crypto Currency will be favoured over land
+### Productive business and crypto currency will be favoured over land
 Now imagine if more people invested in crypto currency.
 With less people investing in land, house prices would drop.
 When house prices drop rent would drop.
@@ -142,12 +142,12 @@ Other thoughts:
 * Currently, businesses are expected to grow exponentially just to beat inflation, this is clearly unsustainable and drives environmental damage and harmful consumerism. Not all productive business is helping people.
 * Currently, crypto currency is driven by speculation and early adopters have an unfair advantage. This is a bad thing but it's only a one time problem, once they've spent it their unfair advantage is gone. 
 * Land however, makes a constant return which can be used to buy more land.
-* Tax collection will probably be harder with cryptocurrency, this could be a major issue but I don't think it is unsolvable.
+* Tax collection will probably be harder with crypto currency, this could be a major issue but I don't think it is unsolvable.
 
 ### What you can do
 
-Let some of your money sit in cryptocurrency where it isn't hurting anyone. And why not cash in on the
-current speculation =)
+Let some of your money sit in crypto currency where it isn't hurting anyone. And why not get an
+unfair advantage as an early adopter =)
 
 ### Further reading
 * [Relationship between inflation and investment](https://ftalphaville.ft.com/2015/01/14/2088062/what-is-the-relationship-between-inflation-and-investment/)
