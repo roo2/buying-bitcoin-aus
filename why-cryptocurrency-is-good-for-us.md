@@ -18,12 +18,12 @@ I believe that cryptocurrency will help make these problems less severe, let's t
 Say you work very hard for many years and are able to save away $500,000. What are you going to do with that money?
 You have four basic options:
 <div class="grid">
-<div class="col-6-12">
+<div class="col-4-12">
 <div class="content">
 ![image](img/why-cryptocurrency-is-good-for-us/cash.png?raw=true)
 </div>
 </div>
-<div class="col-6-12">
+<div class="col-8-12">
 <div class="content">
 * Keep the cash (Trust account, Cash in a safe)
 * Value is driven by what it can be traded for
@@ -33,26 +33,56 @@ You have four basic options:
 </div>
 </div>
 
+<div class="grid">
+<div class="col-4-12">
+<div class="content">
 ![image](img/why-cryptocurrency-is-good-for-us/treasure.png?raw=true)
+</div>
+</div>
+<div class="col-8-12">
+<div class="content">
 Buy rare tradeables (Gold, Silver, Paintings, Beanie babies)
 Value is driven by what it can be traded for and speculation
 Maintains its value over time due to scarcity
 No passive income
 Risky to store
+</div>
+</div>
+</div>
 
-
+<div class="grid">
+<div class="col-4-12">
+<div class="content">
 ![image](img/why-cryptocurrency-is-good-for-us/fences.png?raw=true)
+</div>
+</div>
+<div class="col-8-12">
+<div class="content">
 Invest in Land or control of another scarce productive resource (Land, Taxi Medalion, Patents)
 Value is driven by scarcity and usefulness of the property
 Positives: 
 Maintains its value over time
 Generally a safe investment
 Modest return on investment via rent/fees
+</div>
+</div>
+</div>
 
+<div class="grid">
+<div class="col-4-12">
+<div class="content">
+![image](img/why-cryptocurrency-is-good-for-us/digger.png?raw=true)
+</div>
+</div>
+<div class="col-8-12">
+<div class="content">
 Invest in shares or a busines(Shares on the ASX, Starting a business, Developing a house to rent out)
 Value is driven by useful outputs of the business
 Higher rate of return
 Riskyer investment
+</div>
+</div>
+</div>
 
 Currently, buying gold or other tradeables is inconvinient and risky to store. cash is a bad option because you are guaranteed to lose value to inflation over time. This is actually seen as a positive because it encourages investment. But a business is a risky investment as are shares in other businesses. Buying an inherently valuable resource like land is a much safer use of your money. People will always need land and it requires relatively little management. Houses are in the same category as businesses/shares because they are more like a product produced by builders than a fundamentally rare resources.
 
