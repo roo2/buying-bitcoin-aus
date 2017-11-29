@@ -3,3 +3,5 @@ safe: false
 markdown: kramdown
 kramdown:
   html_to_native: true
+  parse_block_html: true
+  parse_span_html: true
