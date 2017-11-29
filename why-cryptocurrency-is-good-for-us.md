@@ -141,9 +141,10 @@ When rent drops, people get to save more of their money and even get to a point 
 Land prices won't drop to zero, people will still need land.
 Businesses will still receive investment, high return for high risk is attractive to many.
 
-Other thoughts:
-* I don't have anything against people who own land. If most of your income comes from work/business, you are still on the losing side of inflation.
-* Inflation is theft. Banks create money every time someone borrows from them and this is unfair! It keeps you working harder than you need to for less than you deserve.
+### Other thoughts:
+* I don't have anything against people who own land!
+* Even if you already own land, unless it's your primary source of inclome, you're still losing out to inflation.
+* Inflation is theft. Banks create money every time someone borrows from them and this is unfair!
 * Currently, businesses are expected to grow exponentially just to beat inflation, this is clearly unsustainable and drives environmental damage and harmful consumerism. Not all productive business is helping people.
 * Currently, crypto currency is driven by speculation and early adopters have an unfair advantage. This is a bad thing but it's only a one time problem, once they've spent it their unfair advantage is gone. 
 * Land however, makes a constant return which can be used to buy more land.
