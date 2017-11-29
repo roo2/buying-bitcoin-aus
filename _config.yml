@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 safe: false
-
+markdown: kramdown
+kramdown:
+  html_to_native: true
