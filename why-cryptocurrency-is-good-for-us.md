@@ -23,7 +23,7 @@ You have four basic options:
 ![image](img/why-cryptocurrency-is-good-for-us/cash.png?raw=true)
 </div>
 </div>
-<div class="col-6-12>
+<div class="col-6-12">
 <div class="content">
 * Keep the cash (Trust account, Cash in a safe)
 * Value is driven by what it can be traded for
