@@ -1,7 +1,7 @@
 
 <link type="text/css" rel="stylesheet" href="main.css" />
 <link type="text/css" rel="stylesheet" href="style/simplegrid.css" />
-Why you need to buy cryptocurrency so that we can buy houses:
+## Why Cryptocurrency will make us all better off
 
 I'm Roo, I'm a software developer who has been  heavily involved in cryptocurrency and blockchain for
 some years now. I'm not an economist but I am very currious about the economics of decentralised
@@ -133,10 +133,11 @@ Businesses will still receive investment, high return for high risk is attractiv
 
 Other thoughts:
 * I don't have anything against people who own land. If most of your income comes from work/business, you are still on the losing side of inflation.
-* Inflation is theft. Banks create money every time someone borrows from them and this is unfair! It keeps you working harder than you need to for less than you deserve. When you hold cash, you support this unfair system.
-* Currently, businesses are expected to grow exponentially to beat inflation, this is clearly unsustainable and drives environmental damage. 
-* Also to beat inflation, companies promote excessive consumption such as cheap unhealthy food and throwaway culture. Not all productive business is helping people.
-* Currently, Cryptocurrency is driven by speculation and early adopters have an unfair advantage. This is a bad thing but it's only a one time problem, once they've spent it their unfair advantage is gone, land makes a constant return which can be used to buy more land.
+* Inflation is theft. Banks create money every time someone borrows from them and this is unfair! It keeps you working harder than you need to for less than you deserve.
+* Currently, businesses are expected to grow exponentially just to beat inflation, this is clearly unsustainable and drives environmental damage and harmful consumerism. Not all productive business is helping people.
+* Currently, Cryptocurrency is driven by speculation and early adopters have an unfair advantage. This is a bad thing but it's only a one time problem, once they've spent it their unfair advantage is gone. 
+* Land however, makes a constant return which can be used to buy more land.
+* Tax collection might well be harder with cryptocurrency, this could be a major issue.
 
 ### What you can do
 
