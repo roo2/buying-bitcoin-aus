@@ -16,25 +16,21 @@ Current problems:
 I believe that cryptocurrency will help make these problems less severe, let's talk through an example of why:
 
 Say you work very hard for many years and are able to save away $500,000. What are you going to do with that money?
-:div
-    blah
-:span
-    blah
 You have four basic options:
 <div class="grid">
-    <div class="col-6-12">
-	<div class="content">
+<div class="col-6-12">
+<div class="content">
 ![image](img/why-cryptocurrency-is-good-for-us/cash.png?raw=true)
-	</div>
-    </div>
-    <div class="col-6-12>
-	<div class="content">
+</div>
+</div>
+<div class="col-6-12>
+<div class="content">
 * Keep the cash (Trust account, Cash in a safe)
 * Value is driven by what it can be traded for
 * Looses value over time due to inflation
 * Very low risk
-	</div>
-    </div>
+</div>
+</div>
 </div>
 
 ![image](img/why-cryptocurrency-is-good-for-us/treasure.png?raw=true)
