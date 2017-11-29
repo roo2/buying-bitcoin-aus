@@ -36,6 +36,7 @@ You have four basic options:
 <div class="content">
 #### Keep the cash 
 *e.g. Trust account, Cash in a safe*
+
 Value is driven by what it can be traded for
 * Looses value over time due to inflation
 * Very low risk
@@ -70,7 +71,7 @@ Value is driven by what it can be traded for and speculation
 </div>
 <div class="col-8-12">
 <div class="content">
-#### Invest in Land or control of another scarce, productive resource 
+#### Invest in Land or control of another scarce resource 
 *e.g. Land, Taxi Medallion, Fishing Quota*
 
 Value is driven by scarcity and usefulness of the property
