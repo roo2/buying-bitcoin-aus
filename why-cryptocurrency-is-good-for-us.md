@@ -1,3 +1,6 @@
+
+<link type="text/css" rel="stylesheet" href="main.css" />
+<link type="text/css" rel="stylesheet" href="style/simplegrid.css" />
 Why you need to buy cryptocurrency so that we can buy houses:
 
 I have a theory that when more people adopt cryptocurrency, the world and Australia in particular will be much better off. This is just mine and my girlfriend's understanding and it's not exactly peer reviewed or even very well researched but please bear with me and then form your own opinions.
@@ -15,12 +18,21 @@ I believe that cryptocurrency will help make these problems less severe, let's t
 Say you work very hard for many years and are able to save away $500,000. What are you going to do with that money?
 
 You have four basic options:
-
+<div class="grid">
+    <div class="col-6-12">
+	<div class="content">
 ![image](img/why-cryptocurrency-is-good-for-us/cash.png?raw=true)
-Keep the cash (Trust account, Cash in a safe)
-Value is driven by what it can be traded for
-Looses value over time due to inflation
-Very low risk
+	</div>
+    </div>
+    <div class="col-6-12>
+	<div class="content">
+* Keep the cash (Trust account, Cash in a safe)
+* Value is driven by what it can be traded for
+* Looses value over time due to inflation
+* Very low risk
+	</div>
+    </div>
+</div>
 
 ![image](img/why-cryptocurrency-is-good-for-us/treasure.png?raw=true)
 Buy rare tradeables (Gold, Silver, Paintings, Beanie babies)
